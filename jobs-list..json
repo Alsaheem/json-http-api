@@ -3,6 +3,7 @@
         {
             "job-role-name" : "Devops Engineer",
             "company-name" : "Linear Company",
+            "job-location" : "London", 
             "job-application-link" : "https://www.kpmgcareers.co.uk/vacancies/ignition-co-facilitator/97588",
             "job-role-description" : "Global eCommerce Retailer requires a Senior AWS DevOps Engineer to help be the glue between the companies Dev, QA and Product teams - enabling the smooth Continuous Build and Integration of new instances of systems and test",
             "job-role-duties-responsibilities" : [
@@ -39,6 +40,7 @@
         {
             "job-role-name" : "Software Engineer",
             "company-name" : "Linear Company",
+            "job-location" : "London", 
             "job-role-description" : "Global eCommerce Retailer requires a Senior AWS DevOps Engineer to help be the glue between the companies Dev, QA and Product teams - enabling the smooth Continuous Build and Integration of new instances of systems and test",
             "job-role-duties-responsibilities" : [
                 {
@@ -74,6 +76,7 @@
         {
             "job-role-name" : "Cloud Engineer",
             "company-name" : "Linear Company",
+            "job-location" : "London", 
             "job-role-description" : "Global eCommerce Retailer requires a Senior AWS DevOps Engineer to help be the glue between the companies Dev, QA and Product teams - enabling the smooth Continuous Build and Integration of new instances of systems and test",
             "job-role-duties-responsibilities" : [
                 {
@@ -109,6 +112,7 @@
         {
             "job-role-name" : "Infrastructure Engineer",
             "company-name" : "Linear Company",
+            "job-location" : "London", 
             "job-role-description" : "Global eCommerce Retailer requires a Senior AWS DevOps Engineer to help be the glue between the companies Dev, QA and Product teams - enabling the smooth Continuous Build and Integration of new instances of systems and test",
             "job-role-duties-responsibilities" : [
                 {
@@ -144,6 +148,7 @@
         {
             "job-role-name" : "Software Tester",
             "company-name" : "Linear Company",
+            "job-location" : "London", 
             "job-role-description" : "Global eCommerce Retailer requires a Senior AWS DevOps Engineer to help be the glue between the companies Dev, QA and Product teams - enabling the smooth Continuous Build and Integration of new instances of systems and test",
             "job-role-duties-responsibilities" : [
                 {
@@ -179,6 +184,7 @@
         {
             "job-role-name" : "QA Testing Engineer",
             "company-name" : "Linear Company",
+            "job-location" : "London", 
             "job-role-description" : "Global eCommerce Retailer requires a Senior AWS DevOps Engineer to help be the glue between the companies Dev, QA and Product teams - enabling the smooth Continuous Build and Integration of new instances of systems and test",
             "job-role-duties-responsibilities" : [
                 {
@@ -214,6 +220,7 @@
         {
             "job-role-name" : "Penetration Tester",
             "company-name" : "Linear Company",
+            "job-location" : "London", 
             "job-role-description" : "Global eCommerce Retailer requires a Senior AWS DevOps Engineer to help be the glue between the companies Dev, QA and Product teams - enabling the smooth Continuous Build and Integration of new instances of systems and test",
             "job-role-duties-responsibilities" : [
                 {
@@ -249,6 +256,7 @@
         {
             "job-role-name" : "Cloud Manager",
             "company-name" : "Linear Company",
+            "job-location" : "London", 
             "job-role-description" : "Global eCommerce Retailer requires a Senior AWS DevOps Engineer to help be the glue between the companies Dev, QA and Product teams - enabling the smooth Continuous Build and Integration of new instances of systems and test",
             "job-role-duties-responsibilities" : [
                 {
@@ -284,6 +292,7 @@
         {
             "job-role-name" : "Lead Software Engineer",
             "company-name" : "Linear Company",
+            "job-location" : "London", 
             "job-role-description" : "Global eCommerce Retailer requires a Senior AWS DevOps Engineer to help be the glue between the companies Dev, QA and Product teams - enabling the smooth Continuous Build and Integration of new instances of systems and test",
             "job-role-duties-responsibilities" : [
                 {
@@ -319,6 +328,7 @@
         {
             "job-role-name" : "Team Lead/ Machine Learning Engineering",
             "company-name" : "Linear Company",
+            "job-location" : "London", 
             "job-role-description" : "Global eCommerce Retailer requires a Senior AWS DevOps Engineer to help be the glue between the companies Dev, QA and Product teams - enabling the smooth Continuous Build and Integration of new instances of systems and test",
             "job-role-duties-responsibilities" : [
                 {
@@ -354,6 +364,7 @@
         {
             "job-role-name" : "Sales Engineer",
             "company-name" : "Linear Company",
+            "job-location" : "London", 
             "job-role-description" : "Global eCommerce Retailer requires a Senior AWS DevOps Engineer to help be the glue between the companies Dev, QA and Product teams - enabling the smooth Continuous Build and Integration of new instances of systems and test",
             "job-role-duties-responsibilities" : [
                 {
@@ -389,6 +400,7 @@
         {
             "job-role-name" : "Product Designer",
             "company-name" : "Linear Company",
+            "job-location" : "London", 
             "job-role-description" : "Global eCommerce Retailer requires a Senior AWS DevOps Engineer to help be the glue between the companies Dev, QA and Product teams - enabling the smooth Continuous Build and Integration of new instances of systems and test",
             "job-role-duties-responsibilities" : [
                 {
