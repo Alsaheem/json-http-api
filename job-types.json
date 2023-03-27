@@ -1,8 +1,8 @@
 {
-    "0" : "Senior Developer",
-    "1" : "Devops Engineer",
-    "2" : "Software Tester",
-    "3" : "Junior Developer",
-    "4" : "Cloud Engineer",
-    "5" : "Infrastricture Engineer"
+    "developer" : "Senior Developer",
+    "devops" : "Devops Engineer",
+    "tester" : "Software Tester",
+    "software" : "Junior Developer",
+    "cloud" : "Cloud Engineer",
+    "infrastructure" : "Infrastructure Engineer"
 }

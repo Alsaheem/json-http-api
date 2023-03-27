@@ -1,5 +1,6 @@
 {
-    "0" : "Senior",
-    "1" : "Mid-Level",
-    "2" : "Junior"
+    "senior" : "Senior",
+    "mid-level" : "Mid-Level",
+    "junior" : "Junior",
+    "all-jobs" : "All-Jobs"
 }
